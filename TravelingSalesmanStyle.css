@@ -1,0 +1,24 @@
+body {
+	background-color:#FFF;
+
+	h3,h3 { display: inline; }
+}
+
+
+#button1 {
+	background-color:#77F;
+	width:110px;
+}
+
+#button2 {
+	background-color:#77F;
+	width:110px;
+}
+
+#canvas {
+	background-color:#ccffcc;
+}
+
+#canvas2 {
+	background-color:#ccffcc;
+}
